@@ -1,2 +1,2 @@
-# IBM-Data-Science
-Coursera IBM Data Science Course
+# Data-Science
+Includes files and projects for Data Science
